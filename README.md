@@ -14,9 +14,9 @@ This repository serves as my personal learning space to strengthen my programmin
 - **Enumerations** — Enums, associated values, and raw values
 - **Structures & Classes** — Properties, methods, and initializers
 - **Protocols & Extensions** — Protocol-oriented programming
-- **Error Handling** — `throws`, `try`, and `catch`
-- **Advanced Swift** — Generics, higher-order functions, and memory management
-- **Problem Solving** — Logic-building exercises and coding challenges
+//- **Error Handling** — `throws`, `try`, and `catch`
+//- **Advanced Swift** — Generics, higher-order functions, and memory management
+//- **Problem Solving** — Logic-building exercises and coding challenges
 
 *The structure is illustrative and can evolve as more exercises are added.*
 
